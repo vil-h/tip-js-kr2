@@ -1,5 +1,4 @@
-// Номер нужно уточнить у преподавателя.
-export const variantNumber = null;
+export const variantNumber = 1;
 
 const FILTERS_BY_VARIANT = Object.freeze({
   1: Object.freeze({ completed: false }),
